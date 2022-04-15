@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="what_s_happening">What\'s happening?</string>
+    <string name="food_name">Food name</string>
+    <string name="food_weight">Food Weight</string>
+    <string name="food_price">Food Price</string>
+    <string name="add_button">+</string>
+</resources>
